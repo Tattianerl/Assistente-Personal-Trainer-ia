@@ -1,6 +1,3 @@
-# Assistente-Personal-Trainer-ia
-Prompt-ia
-
 # Assistente de Personal Trainer - Gerador de Treino Ideal
 Este projeto foi desenvolvido como parte de um desafio de Prompt Engineering, com o objetivo de criar um assistente virtual capaz de gerar um plano de treino personalizado. O assistente leva em consideração fatores como biotipo corporal, frequência de treino, duração das sessões, preferências de exercícios e objetivos de cada usuário. Ele utiliza as melhores práticas de engenharia de prompt para entregar um resultado preciso e personalizado.
 
